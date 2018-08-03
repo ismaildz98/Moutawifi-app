@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "785561292660",
+    "firebase_url": "https://moutawafi-7d02e.firebaseio.com",
+    "project_id": "moutawafi-7d02e",
+    "storage_bucket": "moutawafi-7d02e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785561292660:android:5a7eb17033a237a7",
+        "android_client_info": {
+          "package_name": "com.moutawifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785561292660-udjf7f1ajbbmqoqhb613flfmt5g403o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm6tF87fM7RV9T3JK9PODc92yHBAXcCmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
